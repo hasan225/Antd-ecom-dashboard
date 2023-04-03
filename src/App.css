@@ -1,0 +1,10 @@
+
+
+
+.formList-wrap .ant-space-item{
+  flex: 1;
+}
+
+.formList-wrap .ant-space-item:last-child{
+align-self: center;
+}
